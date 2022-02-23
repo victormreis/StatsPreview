@@ -1,2 +1,2 @@
-# Checkout my  clicking Prooject Here
+# Checkout my Prooject clicking Here
  * https://victormreis.github.io/StatsPreview/
